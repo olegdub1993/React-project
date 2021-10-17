@@ -1,0 +1,16 @@
+.span {
+  background: transparent;
+  border: 1px solid black;
+  display: inline-block;
+  cursor: pointer;
+  padding: 5px 15px;
+  margin: 5px;
+}
+.current {
+  background-color: rgb(255, 123, 0);
+  border: 1px solid rgb(0, 0, 0);
+  display: inline-block;
+  cursor: pointer;
+  padding: 5px 15px;
+  margin: 5px;
+}

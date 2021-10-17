@@ -1,0 +1,10 @@
+.select {
+  outline: none;
+  padding: 5px 5px;
+  border: 1px solid black;
+  width: 140px;
+}
+/* .select:hover,
+select:active {
+  background-color: rgb(255, 123, 0);
+} */

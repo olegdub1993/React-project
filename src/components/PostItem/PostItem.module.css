@@ -1,0 +1,25 @@
+.post {
+  background-color: rgba(29, 23, 17, 0.9);
+  color: white;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.postContent {
+  width: 70%;
+  text-align: left;
+}
+.button {
+  margin-right: 10px;
+  display: inline-block;
+  text-transform: uppercase;
+  color: white;
+  border: 1px solid white;
+  background: transparent;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}

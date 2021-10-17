@@ -1,0 +1,9 @@
+.input {
+  background: transparent;
+  border: 1px solid black;
+  display: block;
+  margin-bottom: 10px;
+  outline: none;
+  padding: 5px;
+  width: 140px;
+}

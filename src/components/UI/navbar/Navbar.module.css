@@ -1,0 +1,35 @@
+.item {
+  font-family: Oswald, sans-serif;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+  display: block;
+  margin: 0 10px;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 700;
+  transition: all 0.3s linear;
+}
+.item:hover {
+  color: rgb(255, 123, 0);
+}
+.nav {
+  background-color: rgba(29, 23, 17, 0.9);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.navList {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+}
+.navBtn {
+  color: white;
+  border: 1px solid white;
+}
